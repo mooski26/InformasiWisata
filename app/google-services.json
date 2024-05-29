@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "989605369533",
+    "project_id": "informasiwisata-bef6d",
+    "storage_bucket": "informasiwisata-bef6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989605369533:android:218e131bce4b25aef589d4",
+        "android_client_info": {
+          "package_name": "com.example.informasiwisata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989605369533-ra3ab2lfd851gkhumcftekkpbq7j6lpc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.informasiwisata",
+            "certificate_hash": "5e5d5dc58782b040b5b32f37442cdf5b9bd5b35e"
+          }
+        },
+        {
+          "client_id": "989605369533-dqnrfmkf4q1h71v5ost07pnu7ut6hhdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJwV3E791oDRi_HxfvwgKB0uGuO3g1g4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989605369533-dqnrfmkf4q1h71v5ost07pnu7ut6hhdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,86 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/InformasiWisata/app/src/main/res/drawable-v24/border.xml" value="0.102" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/drawable-v24/ic_baseline_more.xml" value="0.134" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/drawable-v24/ic_baseline_person_24.xml" value="0.135" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/drawable-v24/shape_edittext01.xml" value="0.135" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/drawable-v24/shape_react02.xml" value="0.135" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/drawable-v24/shape_toolbar01.xml" value="0.1295" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/drawable-v24/shape_toolbar02.xml" value="0.1295" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/drawable/button_login.xml" value="0.102" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/drawable/ic_baseline_add_a_photo_24.xml" value="0.148" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/drawable/ic_baseline_add_comment_24.xml" value="0.1" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/drawable/ic_baseline_commen.xml" value="0.1" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.148" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/drawable/ic_baseline_delete_forever_24.xml" value="0.148" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/drawable/ic_wisata_background.xml" value="0.148" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/drawable/input_text.xml" value="0.102" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/drawable/shape_react.xml" value="0.1" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/font/work_sans_black.xml" value="0.18888888888888888" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/font/work_sans_semibold.xml" value="0.18888888888888888" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/layout/activity_comment.xml" value="0.22" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/layout/activity_daftar_user.xml" value="0.215625" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/layout/activity_edit_admin.xml" value="0.215625" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/layout/activity_edit_profile_user.xml" value="0.20416666666666666" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/layout/activity_edit_wisata.xml" value="0.20416666666666666" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/layout/activity_hasil_user.xml" value="0.215625" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/layout/activity_login.xml" value="0.2015625" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/layout/activity_login_user.xml" value="0.215625" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/layout/activity_lupa_pass.xml" value="0.2015625" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/layout/activity_menu_login.xml" value="0.215625" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/layout/activity_menu_user.xml" value="0.22" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/layout/activity_menu_user2.xml" value="0.215625" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/layout/activity_profil_admin.xml" value="0.20416666666666666" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/layout/activity_profile_user.xml" value="0.2015625" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/layout/aktivity_about.xml" value="0.10486322188449848" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/layout/aktivity_edit_alam.xml" value="0.18" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/layout/aktivity_login_admin.xml" value="0.10486322188449848" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/layout/aktivity_menu_admin.xml" value="0.18" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/layout/aktivity_menu_utama.xml" value="0.22" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/layout/aktivity_wisata_alam.xml" value="0.215625" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/layout/aktivity_wisata_kuliner.xml" value="0.215625" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/layout/app_bar_menu_user.xml" value="0.215625" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/layout/comment.xml" value="0.20416666666666666" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/layout/content_menu_user.xml" value="0.19" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/layout/dialog_comment.xml" value="0.153125" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/layout/dialogcomment.xml" value="0.20416666666666666" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/layout/fragment_gallery.xml" value="0.215625" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/layout/fragment_home.xml" value="0.215625" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/layout/fragment_slideshow.xml" value="0.215625" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/layout/hasil_alam.xml" value="0.215625" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/layout/nav_header_menu_user.xml" value="0.215625" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/layout/row_alam.xml" value="0.215625" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/layout/row_comment.xml" value="0.33" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/layout/row_komen.xml" value="0.20416666666666666" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/layout/row_kuliner.xml" value="0.215625" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/layout/row_user.xml" value="0.215625" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/menu/activity_main_drawer.xml" value="0.215625" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/menu/common_menu.xml" value="0.215625" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/menu/menu_user.xml" value="0.215625" />
+        <entry key="..\:/InformasiWisata/app/src/main/res/menu/option_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/android studio/InformasiWisata/app/src/main/res/drawable/ic_baseline_person.xml" value="0.2282051282051282" />
+        <entry key="..\:/android studio/InformasiWisata/app/src/main/res/layout/activity_main.xml" value="0.18840579710144928" />
+        <entry key="..\:/android studio/InformasiWisata/app/src/main/res/layout/aktivity_about.xml" value="0.18840579710144928" />
+        <entry key="..\:/android studio/InformasiWisata/app/src/main/res/layout/aktivity_edit_alam.xml" value="0.2" />
+        <entry key="..\:/android studio/InformasiWisata/app/src/main/res/layout/aktivity_edit_kuliner.xml" value="0.18840579710144928" />
+        <entry key="..\:/android studio/InformasiWisata/app/src/main/res/layout/aktivity_login_admin.xml" value="0.18840579710144928" />
+        <entry key="..\:/android studio/InformasiWisata/app/src/main/res/layout/aktivity_menu_admin.xml" value="0.18840579710144928" />
+        <entry key="..\:/android studio/InformasiWisata/app/src/main/res/layout/aktivity_menu_utama.xml" value="0.18840579710144928" />
+        <entry key="..\:/android studio/InformasiWisata/app/src/main/res/layout/aktivity_wisata_alam.xml" value="0.18840579710144928" />
+        <entry key="..\:/android studio/InformasiWisata/app/src/main/res/layout/aktivity_wisata_kuliner.xml" value="0.18840579710144928" />
+        <entry key="..\:/android studio/InformasiWisata/app/src/main/res/layout/hasil_alam.xml" value="0.18840579710144928" />
+        <entry key="..\:/android studio/InformasiWisata/app/src/main/res/layout/row_alam.xml" value="0.18840579710144928" />
+        <entry key="..\:/android studio/InformasiWisata/app/src/main/res/layout/row_kuliner.xml" value="0.18840579710144928" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:cardElevation="15dp"
+    app:cardCornerRadius="20dp"
+    app:cardUseCompatPadding="true"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="664dp"
+        android:layout_margin="5dp"
+        android:layout_marginTop="8dp"
+        android:orientation="vertical"
+        android:padding="10dp">
+        <ImageButton
+            android:id="@+id/btbackcoment"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_back"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_margin="5dp"
+            android:layout_marginTop="8dp"
+            android:orientation="vertical"
+            android:background="@drawable/shape_react02"
+            android:padding="10dp">
+
+            <TextView
+                android:id="@+id/tv_daftar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:fontFamily="@font/work_sans_black"
+                android:text="Komentar"
+                android:textSize="24sp" />
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/commentTil"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:hint="Komentar"
+                app:startIconDrawable="@drawable/ic_baseline_commen">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/commentEt"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/shape_edittext01"
+                    android:inputType="textCapSentences|textMultiLine"/>
+
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <Button
+                android:id="@+id/btComment"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/commentTil"
+                android:layout_marginTop="20dp"
+                android:text="Save" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
